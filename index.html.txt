@@ -1,3 +1,4 @@
 <bod>
 So you want to say i can make changes direct also
+it is goig to commit without pull
 </bod>
